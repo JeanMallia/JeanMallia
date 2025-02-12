@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
 
 <p align="center">
-  <a href="https://jeanmallia.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌎 Portfólio-Jeanlucca_Mallia-007BFF?style=for-the-badge" alt="Portfólio">
+  <a href="https://jeanmallia.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jeanlucca-mallia/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-Jeanlucca_Mallia-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -15,7 +15,15 @@
 <h2>👋 Sobre Mim</h2>
 
 <p>
-Sou desenvolvedor Fluig e atuo na área desde 2021. Tenho experiência no desenvolvimento de soluções para automação de processos, criação de indicadores, widgets (públicas ou privadas) e integrações com diversas tecnologias, como <strong>Protheus, RM, Gupy</strong> e <strong>DocuSign</strong>.
+Sou <strong>desenvolvedor Fluig</strong> desde 2021, atuando na criação de soluções para <strong>automação de processos</strong>, <strong>indicadores</strong>, <strong>widgets</strong> (públicas e privadas) e <strong>integrações</strong> com diversas tecnologias, como <strong>Protheus, RM, Gupy</strong> e <strong>DocuSign</strong>.
+</p>
+
+<p>
+Ao longo da minha trajetória, trabalhei em projetos para <strong>diferentes setores e segmentos</strong>, cada um com desafios e particularidades únicas. Essa diversidade me permitiu desenvolver uma <strong>visão estratégica</strong> e a flexibilidade necessária para <strong>adaptar soluções conforme as necessidades do cliente</strong>.
+</p>
+
+<p>
+Meu foco está sempre em <strong>resolver problemas de forma eficiente</strong>, entregando <strong>soluções seguras, escaláveis e alinhadas com os objetivos do negócio</strong>. 🚀
 </p>
 
 <h3>📌 Áreas que já atuei:</h3>
@@ -33,37 +41,9 @@ Sou desenvolvedor Fluig e atuo na área desde 2021. Tenho experiência no desenv
 <h2>📌 Projetos</h2>
 
 <h3>📊 Painéis e Widgets</h3>
-<ul>
-  <li><strong>Widget de Montagens Finalizadas</strong> - Controle de montagens no Fluig.</li>
-  <li><strong>Desenvolvimento de painel de comissões</strong></li>
-  <li><strong>Painel de férias</strong></li>
-  <li><strong>Painel financeiro</strong></li>
-  <li><strong>Painel público de controle de pedidos para fornecedores</strong> - Acesso controlado no Fluig para fornecedores.</li>
-</ul>
-
 <h3>🔄 BPM e ECM</h3>
-<ul>
-  <li><strong>Criação de fluxo de compra de passagens</strong></li>
-  <li><strong>Solicitação de adiantamento de viagem</strong></li>
-  <li><strong>Fluxo de admissão e demissão</strong></li>
-  <li><strong>Fluxo de requisição de contratação de funcionário</strong></li>
-  <li><strong>Controle de portaria</strong></li>
-  <li><strong>Solicitação de treinamento</strong></li>
-  <li><strong>Solicitação de serviço</strong></li>
-</ul>
-
 <h3>🛠️ AMS (Suporte ao Cliente)</h3>
-<ul>
-  <li><strong>Suporte e atendimento a usuários</strong></li>
-  <li><strong>Manutenção e revisão de fluxo de processos já desenvolvidos em diferentes clientes</strong></li>
-</ul>
-
 <h3>🔗 Integrações Fluig x Outras Tecnologias</h3>
-<ul>
-  <li><strong>Desenvolvimento de chatbot com TakeBlip e integração Fluig x TakeBlip</strong></li>
-  <li><strong>Processo logístico completo</strong> - Entrada de pedidos, segregação do estoque, roteirização da carga, definição de frete, entrada na portaria, retirada e carregamento do pedido integrado com RM e portal externo para abertura de pedidos.</li>
-  <li><strong>Cadastro de alteração de clientes e fornecedores</strong></li>
-</ul>
 
 ---
 
