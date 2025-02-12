@@ -1,15 +1,5 @@
 <h1 align="center">🚀 Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
 
-<p align="center">
-  <a href="https://jeanmallia.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/ Portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jeanlucca-mallia/">
-    <img src="https://img.shields.io/badge/ LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
 ---
 
 <h2>👋 Sobre Mim</h2>
@@ -27,9 +17,10 @@ Meu foco está sempre em <strong>resolver problemas de forma eficiente</strong>,
 </p>
 
 <p align="center">
-  <a href="https://jeanmallia.github.io/portfolio/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/⬇️ Acesse meu portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acesse meu portfólio">
-  </a>
+  <strong>➡️ <a href="https://jeanmallia.github.io/portfolio/" style="color: #007BFF; text-decoration: none;">Acesse meu portfólio</a></strong>
+</p>
+<p align="center">
+  <strong>➡️ <a href="https://www.linkedin.com/in/jeanlucca-mallia/" style="color: #007BFF; text-decoration: none;">LinkedIn</a></strong>
 </p>
 
 <h3>📌 Áreas que já atuei:</h3>
