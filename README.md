@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
 
 <p align="center">
-  <a href="https://jeanmallia.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌎 Portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  <a href="https://jeanmallia.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/ Portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jeanlucca-mallia/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/jeanlucca-mallia/">
+    <img src="https://img.shields.io/badge/ LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -51,36 +51,36 @@ Meu foco está sempre em <strong>resolver problemas de forma eficiente</strong>,
 
 <h3>🎓 Formação Acadêmica</h3>
 <ul>
-  <li>🔹 <strong>Análise e Desenvolvimento de Sistemas</strong></li>
+  <li> <strong>Análise e Desenvolvimento de Sistemas</strong></li>
 </ul>
 
 <h3>🏆 Cursos e Especializações</h3>
 
 <h4>📌 Fluig e BPM - TOTVS Academy</h4>
 <ul>
-  <li>🔹 <strong>Integração Fluig & Protheus</strong> (jan/2022)</li>
-  <li>🔹 <strong>Integração Fluig x RM</strong></li>
-  <li>🔹 <strong>Gestão de Processos - BPM/ECM</strong> (out/2021)</li>
-  <li>🔹 <strong>Desenvolvimento de Processos - BPM/ECM Advanced</strong> (ago/2021)</li>
-  <li>🔹 <strong>Desenvolvimento de Processos - BPM/ECM Intermediate</strong> (ago/2021)</li>
-  <li>🔹 <strong>Fluig Dev Start</strong> (ago/2021)</li>
-  <li>🔹 <strong>Instalação do Fluig</strong> (ago/2021)</li>
+  <li> <strong>Integração Fluig & Protheus</strong> (jan/2022)</li>
+  <li> <strong>Integração Fluig x RM</strong></li>
+  <li> <strong>Gestão de Processos - BPM/ECM</strong> (out/2021)</li>
+  <li> <strong>Desenvolvimento de Processos - BPM/ECM Advanced</strong> (ago/2021)</li>
+  <li> <strong>Desenvolvimento de Processos - BPM/ECM Intermediate</strong> (ago/2021)</li>
+  <li> <strong>Fluig Dev Start</strong> (ago/2021)</li>
+  <li> <strong>Instalação do Fluig</strong> (ago/2021)</li>
 </ul>
 
 <h4>💾 Banco de Dados e SQL</h4>
 <ul>
-  <li>🔹 <strong>Formação SQL Server 2017 - Desenvolvedor Expert SQL e T-SQL</strong> (Udemy - nov/2021)</li>
+  <li> <strong>Formação SQL Server 2017 - Desenvolvedor Expert SQL e T-SQL</strong> (Udemy - nov/2021)</li>
 </ul>
 
 <h4>🌐 Desenvolvimento Web e APIs</h4>
 <ul>
-  <li>🔹 <strong>API Restful Javascript com Node.js, Typescript e TypeORM</strong> (Udemy)</li>
-  <li>🔹 <strong>Desenvolvimento Web Completo - 20 cursos + 20 projetos</strong> (Udemy)</li>
+  <li> <strong>API Restful Javascript com Node.js, Typescript e TypeORM</strong> (Udemy)</li>
+  <li> <strong>Desenvolvimento Web Completo - 20 cursos + 20 projetos</strong> (Udemy)</li>
 </ul>
 
 <h4>📜 Outras Especializações</h4>
 <ul>
-  <li>🔹 <strong>Especialização Técnica - Extensão em Sistemas da Qualidade</strong> (COTIL - Colégio Técnico de Limeira, dez/2014)</li>
+  <li> <strong>Especialização Técnica - Extensão em Sistemas da Qualidade</strong> (COTIL - Colégio Técnico de Limeira, dez/2014)</li>
 </ul>
 
 ---
