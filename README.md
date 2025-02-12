@@ -1,10 +1,12 @@
 <h1 align="center">🚀 Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
 
 <p align="center">
-  <a href="https://jeanmallia.github.io/"><strong>🌎 Acesse meu portfólio completo aqui!</strong></a>  
-  <br>
-  <a href="https://www.linkedin.com/in/jeanlucca-mallia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeanlucca_Mallia-blue?style=flat-square&logo=linkedin">
+  <a href="https://jeanmallia.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Portfólio-Jeanlucca_Mallia-007BFF?style=for-the-badge" alt="Portfólio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jeanlucca-mallia/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-Jeanlucca_Mallia-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
@@ -102,11 +104,3 @@ Sou desenvolvedor Fluig e atuo na área desde 2021. Tenho experiência no desenv
 </ul>
 
 ---
-
-<p align="center">
-  <a href="https://jeanmallia.github.io/"><strong>🌎 Acesse meu portfólio completo!</strong></a>  
-  <br>
-  <a href="https://www.linkedin.com/in/jeanlucca-mallia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeanlucca_Mallia-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
