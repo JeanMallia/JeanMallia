@@ -26,6 +26,12 @@ Ao longo da minha trajetória, trabalhei em projetos para <strong>diferentes set
 Meu foco está sempre em <strong>resolver problemas de forma eficiente</strong>, entregando <strong>soluções seguras, escaláveis e alinhadas com os objetivos do negócio</strong>. 🚀
 </p>
 
+<p align="center">
+  <a href="https://jeanmallia.github.io/portfolio/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/⬇️ Acesse meu portfólio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acesse meu portfólio">
+  </a>
+</p>
+
 <h3>📌 Áreas que já atuei:</h3>
 <ul>
   <li>🏗️ <strong>Construção civil</strong> - Construtoras e empreiteiras</li>
