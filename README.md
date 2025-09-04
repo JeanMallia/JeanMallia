@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
+<h1 align="center"> Jeanlucca Mallia | Desenvolvedor Fluig e Outras Tecnologias</h1>
 
 ---
 
